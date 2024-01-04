@@ -175,7 +175,8 @@ the best school in vaniyambadi.
 ## Output:
 ![Screenshot 2024-01-05 004713](https://github.com/easwari21/places-around-me/assets/131534979/7d92a841-671f-4c80-ba6f-c24125baf284)
 ![Screenshot 2024-01-05 004733](https://github.com/easwari21/places-around-me/assets/131534979/32b54638-7267-41bb-94f9-9bb5f3f9b1c4)
-![Screenshot 2024-01-05 004742](https://github.com/easwari21/places-around-me/assets/1315![Screenshot 2024-01-05 004753](https://github.com/easwari21/places-around-me/assets/131534979/c85588c2-5a35-4e5e-be7a-cd417d3e54be)
+![Screenshot 2024-01-05 004742](https://github.com/easwari21/places-around-me/assets/131534979/05044b83-0af3-4501-bdf6-b286dbff2a8d)
+![Screenshot 2024-01-05 004753](https://github.com/easwari21/places-around-me/assets/131534979/c85588c2-5a35-4e5e-be7a-cd417d3e54be)
 
 
 ## Result:
